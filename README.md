@@ -4,3 +4,7 @@
 * Si on retourne 2 cartes identiques, les cartes restent retournées côté face
 * Si on retourne 2 cartes différentes, les cartes se retournent côté pile
 * Quand toutes les cartes sont retournés côté face, le jeu redémarre
+
+> Projet précédent : [Dégradées linéaires](https://github.com/Zenitude/ecoleWeb-projetjs-degradeeslineaires)
+
+> Projet suivant : [Github API](https://github.com/Zenitude/ecoleWeb-projetjs-githubapi)
